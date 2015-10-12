@@ -1,6 +1,6 @@
 {
   "name": "cordova-plugin-barcode-scanner2",
-  "version": "0.7.6",
+  "version": "0.7.7",
   "description": "Cordova Barcode Scanner Plugin",
   "cordova": {
     "id": "cordova-plugin-barcodescanner",
