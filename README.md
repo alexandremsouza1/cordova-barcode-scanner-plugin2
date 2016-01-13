@@ -14,7 +14,11 @@ BarcodeScanner
 ## Installation
 
 ```
-cordova plugin add cordova-plugin-barcodescanner
+cordova plugin add cordova-plugin-barcodescanner2
+```
+
+```
+<gap:plugin name="cordova-plugin-barcode-scanner2" source="npm" />
 ```
 
 ## Development
@@ -25,10 +29,6 @@ execute the `runIntegrationTests.sh` script for a specific platform:
 
 ```
 PLATFORM='android' ./runIntegrationTests.sh
-```
-
-```
-PLATFORM='ios' ./runIntegrationTests.sh
 ```
 
 ### Details
