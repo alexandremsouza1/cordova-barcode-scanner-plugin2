@@ -8,10 +8,7 @@ BarcodeScanner
 
 ## Supported Platforms
 
-- Android
-- iOS
-- Windows 8
-- Windows Phone 8
+- Android only version for high resolution phones
 
 
 ## Installation
